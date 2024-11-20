@@ -1,1 +1,0 @@
-# zubtex.kg
